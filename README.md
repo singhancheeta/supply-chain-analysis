@@ -1,23 +1,9 @@
-# 🚀 Supply Chain Analytics Dashboard
+# <img src="assets/logo.png" width="5%"> Supply Chain Analytics Dashboard
 
-![Supply Chain Logo](assets/logo.png) <!-- Optional: Replace or remove if you don't have a logo -->
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-Express-0099C6?logo=plotly)](https://plotly.com/)
 [![Status](https://img.shields.io/badge/status-Production-brightgreen)]()
-
----
-
-## 📸 Sneak Peek
-
-<!-- Add screenshots of your charts here -->
-<p align="center">
-  <img src="assets/scatter.png" width="47%">
-  <img src="assets/pie_chart.png" width="47%">
-  <br>
-  <img src="assets/bar_chart.png" width="47%">
-  <img src="assets/line_chart.png" width="47%">
-</p>
 
 ---
 
@@ -43,6 +29,20 @@ All in one powerful, interactive dashboard.
 - ⚙️ Lead time and manufacturing cost comparison
 - 📉 Defect rate visualizations by product and transport mode
 - 💸 Shipping cost and transportation breakdown
+
+---
+
+
+## 📸 Sneak Peek
+
+<!-- Add screenshots of your charts here -->
+<p align="center">
+  <img src="assets/scatter.png" width="47%">
+  <img src="assets/pie_chart.png" width="47%">
+  <br>
+  <img src="assets/bar_chart.png" width="47%">
+  <img src="assets/line_chart.png" width="47%">
+</p>
 
 ---
 
