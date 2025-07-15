@@ -46,6 +46,13 @@ All in one powerful, interactive dashboard.
 
 ---
 
+## Clone the Repository
+
+git clone https://github.com/singhancheeta/supply-chain-analysis.git
+cd supply-chain-analysis
+
+---
+
 ## 📁 Data Requirements
 
 This dashboard expects a CSV file named: `supply_chain_data.csv`
